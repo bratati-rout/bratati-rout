@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ **About Me :**
 
-I'm a Applied Electronics and Instrumentation Enginner who is passionate about coding and looking to sovle real world problems.
+I'm a Applied Electronics and Instrumentation Enginner who is passionate about coding and looking to solve real world problems.
 
 ## **What I'm focusing on !**
 
