@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Airflow_logo.svg" alt="Airflow" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_horizontal_color.png" alt="Airflow" width="80"/>
 
   <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="48" height="48"/>
