@@ -33,7 +33,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="48" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48"/>
-  <img src="https://airflow.apache.org/_images/powered_by_airflow.png" alt="Airflow" width="80"/>
+  <img src="https://iconduck.com/icons/93942/airflow" alt="Airflow" width="48" height="48"/>
 
   <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="48" height="48"/>
