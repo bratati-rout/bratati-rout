@@ -1,5 +1,6 @@
 <p align="center">
-<a href="#"><img width="50%" height="auto" src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=740&t=st=1662570838~exp=1662571438~hmac=c5fb294e7f70a5ad2cb0ef6b79ccc309084a368d935c33506725b2846a04d691" height="175px"/></a></p>
+<a href="#"><img width="50%" height="auto" src="https://img.freepik.com/free-vector/freelancer-working-laptop-her-house_1150-35054.jpg?w=740&t=st=1662570838~exp=1662571438~hmac=c5fb294e7f70a5ad2cb0ef6b79ccc309084a368d935c33506725b2846a04d691" height="175px"/></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bratati Rout !</h1>
 
